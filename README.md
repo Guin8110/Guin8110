@@ -1,11 +1,11 @@
-# Hello! I Am Guin
+# Hello There!
 
 Im Currently Developing Discord Bots Which Is [QuackBot](https://discord.com/api/oauth2/authorize?client_id=745507321605783582&permissions=8&scope=bot)
 
 ## I Am A Programmer Came From Philippines
 - 🌱 Currently Learning <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 - 🥅 Goal Is To Create More Open Source Repository For Everyone
-- 💻 Ask Me In Discord! Username: Guin#8110
+- 💻 Ask Me In Discord! Username: Guin#6114
 
 ## Top Language
 <p align="center">
