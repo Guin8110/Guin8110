@@ -19,6 +19,6 @@ Im Currently Developing Discord Bots Which Is [QuackBot](https://discord.com/api
 And Some
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
 
-⚡“Optimism is an occupational hazard of programming: feedback is the treatment.” 
+I Usually Coding Node.js<a href="https://discord.js.org"><img src="https://cdn.discordapp.com/attachments/740865034887888996/740865173065170994/logo-square.png" width="20" alt="discord.js" /></a>(discord.js) Library
 
-– Kent Beck
+All Of My Project Are Licenced So Don't Forgot To Put Credits!
