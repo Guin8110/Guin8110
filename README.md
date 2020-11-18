@@ -1,8 +1,8 @@
 # Hello There!
 
-Im Currently Developing Discord Bots Which Is [QuackBot](https://discord.com/api/oauth2/authorize?client_id=745507321605783582&permissions=8&scope=bot)
+Im Currently Developing Discord Bots Which Is [QuackBot](https://discord.com/api/oauth2/authorize?client_id=745507321605783582&permissions=8&scope=bot) and [QuackGiveaways](https://discord.com/api/oauth2/authorize?client_id=776019957803909121&permissions=1544027248&scope=bot)
 
-## I Am A Programmer Came From Philippines
+## I Am A D.js Programmer
 - 🌱 Currently Learning <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 - 🥅 Goal Is To Create More Open Source Repository For Everyone
 - 💻 Ask Me In Discord! Username: Guin#6114
